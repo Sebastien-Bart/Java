@@ -1,2 +1,2 @@
 # Java
-Dépôt de mes projets Java réalisées à l'Université de Lille
+Dépôt de mes projets Java réalisés à l'Université de Lille
