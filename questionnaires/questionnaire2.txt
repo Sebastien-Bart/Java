@@ -1,0 +1,24 @@
+De quelle couleur sont les feuilles d'un arbre en automne ?
+answers.MultipleAnswer
+Jaune;Orange
+1
+Quel est la couleur du cheval blanc ?
+answers.ChoiceAnswer
+Blanc|Rouge|Multicolore|Brun|Magenta
+1
+Qui a deja trouvé un stage ?
+answers.ChoiceAnswer
+Mikolai|Sebastien
+1
+Quel est le prenom de Guillaume ?
+answers.TextualAnswer
+Guillaume
+1
+Louis mesure-t-il exactement 1m28 ?
+answers.YesNoAnswer
+NO
+1
+Quel âge à Mikolaï ?
+answers.NumericAnswer
+20
+1

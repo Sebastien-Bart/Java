@@ -1,0 +1,24 @@
+Quel est le surnom de Sebastien ?
+answers.TextualAnswer
+Seb
+1
+Quel est le surnom de Mikolai ?
+answers.ChoiceAnswer
+Mik|Flit|Mito|Mitofly|Plik|
+1
+Quel est la note de Loulou au DS1 de COO ?
+answers.NumericAnswer
+3
+2
+Qui a eu la meilleure note au ds1 de COO ?
+answers.ChoiceAnswer
+Mik|Seb|
+17
+Est ce que Clement Quinton est un bon prof ?
+answers.YesNoAnswer
+YES
+1
+Qui est un maître du javascript ?
+answers.ChoiceAnswer
+JC|Mik|Clement|Seb
+2
